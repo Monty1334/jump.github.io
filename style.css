@@ -10,7 +10,7 @@ background-color: black;
     height: 200px;
     border: 1px solid black;
     
-    background-image: url(img/sky.jpg);
+    background-image: url(sky.jpg);
     background-size: cover;
 }
  #by {
