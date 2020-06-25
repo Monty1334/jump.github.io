@@ -9,8 +9,8 @@ background-color: black;
     width: 500px;
     height: 200px;
     border: 1px solid black;
-    
-    background-image: url(sky.jpg);
+    background-color: white;
+   /* background-image: url(sky.jpg);*/
     background-size: cover;
 }
  #by {
